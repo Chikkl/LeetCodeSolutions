@@ -8,11 +8,11 @@ ___
 
 *  **Python**
    * *Easy*
-     - 1.[Two Sum]()
-     - 9.[Palindrome Number]()
-     - 724.[Find Pivot Index]()
-     - 1480.[Running Sum of 1d Array]() 
-     - 1672.[Richest Customer Wealth]()
+     - 1.[Two Sum](https://github.com/Chikkl/LeetCodeSolutions/blob/main/Python_Solutions/1-Two_Sum.py)
+     - 9.[Palindrome Number](https://github.com/Chikkl/LeetCodeSolutions/blob/main/Python_Solutions/9-Palindrome_Number.py)
+     - 724.[Find Pivot Index](https://github.com/Chikkl/LeetCodeSolutions/blob/main/Python_Solutions/724-Find_Pivot_index.py)
+     - 1480.[Running Sum of 1d Array](https://github.com/Chikkl/LeetCodeSolutions/blob/main/Python_Solutions/1480-Running_Sum_of_1d_Array.py) 
+     - 1672.[Richest Customer Wealth](https://github.com/Chikkl/LeetCodeSolutions/blob/main/Python_Solutions/1672.%20Richest%20Customer%20Wealth.py)
    * *Medium*
    * *Hard*
 * **SQL**
